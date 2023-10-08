@@ -6,6 +6,11 @@
 
 Aquí publico las soluciones a los problemas pertenecientes la pagina de programación competitiva "[onlinejudge.org](https://onlinejudge.org/)"
 
+## Lenguajes Utilizados
+
+- Python
+- C++ / C
+
 ## Temas Incluidos
 
 - [Introducción](#instalación)
