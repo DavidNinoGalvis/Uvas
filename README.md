@@ -1,22 +1,20 @@
-# <Título de tu proyecto>
+# <Soluciones a Problemas UVA - Programación Competitiva>
 
 [![GitHub license](https://img.shields.io/github/license/YourUsername/YourRepository)](https://github.com/YourUsername/YourRepository/blob/main/LICENSE)
 
-## Descripción del Proyecto
+## Descripción del Repositorio
 
-Breve descripción de tu proyecto. Explica el propósito y el enfoque del proyecto. ¿Qué problema resuelve? ¿Por qué es importante?
+Aquí publico las soluciones a los problemas pertenecientes la pagina de programación competitiva "[onlinejudge.org](https://onlinejudge.org/)"
 
-## Tabla de Contenidos
+## Temas Incluidos
 
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
+- [Introducción](#instalación)
+- [Matematicas](#uso)
+- [Estructuras De Datos](#contribución)
 
 ## Instalación
 
-Proporciona instrucciones detalladas sobre cómo instalar y configurar tu proyecto. Esto podría incluir dependencias, comandos de instalación y configuración del entorno.
+Sugerencias, correcciones a mi email: [juan-galvis@outlook.com](mailto:juan-galvis@outlook.com)
 
 ```bash
-npm install
+git clone
